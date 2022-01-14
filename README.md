@@ -1,3 +1,5 @@
+This is the repo of my solution to the Demographic Data Analyzer project from the Data Analysis with Python course from freeCodeCamp.
+
 ### Assignment
 
 # Demographic Data Analyzer
